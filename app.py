@@ -1,7 +1,7 @@
 import streamlit as st
-from predict import show_predict_page
+import predict
 
-show_predict_page()
+predict.show_predict_page()
 
 companies={
     "TCS",
@@ -10,4 +10,5 @@ companies={
     "Microsoft",
 
 }
+
 
