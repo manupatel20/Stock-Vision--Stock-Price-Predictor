@@ -110,7 +110,7 @@ Guided by: 🎓 Prof. Ashish K. Gor
 ---
 
 🔗 References:
-	•	Stock Price Prediction Using LSTM
-	•	TensorFlow & Keras Documentation
+	•	[Stock Price Prediction Using LSTM](https://www.researchgate.net/publication/348390803_Stock_Price_Prediction_Using_LSTM)
+	•	https://www.tensorflow.org/learn
 
 
